@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 4.0)
-project(Advent2025)
+project(SecretEntrance)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Advent2025
+add_executable(SecretEntrance
         src/day1.cpp)

@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /home/nick/CLionProjects/Advent2025 Select CMakeLists.txt
