@@ -12,4 +12,4 @@ cd build
 
 make
 ```
-nice
+
